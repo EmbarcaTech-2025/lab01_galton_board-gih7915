@@ -1,13 +1,13 @@
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Insira Seu Nome**
+Autor: **Giovana Ferreira Santos**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
 Instituição: EmbarcaTech - HBr
 
-Campinas, ___ de 2025
+Brasília, maio de 2025
 
 ---
 
